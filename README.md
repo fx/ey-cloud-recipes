@@ -1,3 +1,7 @@
+warning
+===============
+This is my personal fork of engineyard's ey-cloud-recipes with cookbooks from around the web or myself that might not be stable or even working. Use with caution.
+
 ey-cloud-recipes
 ===============
 This is a repository of some basic recipes for EY-Cloud using chef to deploy, setup, and configure common tools for Rails applications.
